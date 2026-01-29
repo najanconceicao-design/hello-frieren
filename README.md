@@ -1,2 +1,2 @@
 # hello-frieren
-portfolio da frieren só que agora é funcional
+essa parte aqui é desnecessaria, ignore.
